@@ -5,6 +5,7 @@ Welcome to the Maleria Neural Network project! This repository hosts a deep lear
 ### 🌟 Project Overview
 
 Malaria affects millions globally every year, and early diagnosis is essential to save lives. This project leverages the power of neural networks to assist in identifying malaria from medical data, such as images of blood smears or other related datasets. The goal? To help researchers and healthcare professionals automate and improve malaria detection with AI.
+![Infected](https://github.com/user-attachments/assets/294d002d-698c-4223-9dfa-4dbd353c9dd7)
 
 ### 🚀 Key Features
 
