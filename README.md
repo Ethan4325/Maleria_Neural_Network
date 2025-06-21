@@ -1,4 +1,4 @@
-# 🧠 Maleria Neural Network 🦟
+# 🧠 Malaria Neural Network 🦟
 
 Welcome to the Maleria Neural Network project! This repository hosts a deep learning model designed to help detect and analyze malaria — one of the world’s deadliest diseases — using neural networks and AI.
 
